@@ -1,4 +1,4 @@
 <?php
 
-  $d = 47;
+  $d = 48;
   $h = 'Hello world';
